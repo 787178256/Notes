@@ -1,0 +1,9 @@
+- **val VS var：**
+  - val：值，不可变，val 值名称: 类型 = xxx
+  - var：变量，var 值名称：类型 = xxx
+- **Scala基本数据类型**
+  - Byte/Char
+  - Short/Int/Long/Float/Double
+  - Boolean
+  - 类型转换：asInstanceOf
+  - 判断类型：isInstanceOf
