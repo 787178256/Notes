@@ -94,5 +94,5 @@
 
   - window触发的条件：watermark时间 >= window_end_time;在[window_start_time,window_end_time]中有数据存在
   - flink处理乱序：watermark+window机制
-
-water mark、本地跑flink、产品、es
+  
+- Flink源码学习：
